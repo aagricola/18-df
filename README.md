@@ -1,5 +1,4 @@
 # Intro to Digital Fabrication
-
 IS 320.01
 
 Amanda Agricola
@@ -11,11 +10,9 @@ Tuesday 9:00-3:00
 dFab Studio
 
 aagricola@mica.edu
-
 ## COURSE DESCRIPTION
 Digital fabrication practices have revolutionized design and manufacturing, and are literally reshaping the world around us.  Increasingly these tools are being employed by artist to create works heretofore impossible or impractical to make.
 This class will be an exploration of computer-aided modes of fabrication and their integration into contemporary art and object making.  A strong emphasis of this course will be technical training on the laser cutters, 3D printers, and CNC routers in MICA’s Digital Fabrication Studio.   We will also spend a considerable amount of time working in CAD and CAM software, with a particular emphasis on Rhinoceros.   We will also examine the effect of this technology on our understanding of space and material, the structure of our economy and modes of production, and other social and philosophical considerations.
-
 ## Important Things to Remember
  - WHEN IN DOUBT, ASK!
  - Help is always a click away; via the internet, your peers, or emailing me. Remember to do homework ahead of time so that you can get questions to me 48 hours before class.
