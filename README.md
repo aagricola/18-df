@@ -1,9 +1,15 @@
 # Intro to Digital Fabrication
+
 IS 320.01
+
 Amanda Agricola
+
 Spring 2017
+
 Tuesday 9:00-3:00
+
 dFab Studio
+
 aagricola@mica.edu
 
 ## COURSE DESCRIPTION
