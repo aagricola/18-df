@@ -10,7 +10,7 @@
   - Laser Cutters
   - 3D Printers
   - CNC
-- [Digital Fabrication](https://docs.google.com/presentation/d/1gafRYl6mlLnueDaxqprYbbXyXYDQgkG929qrlBJmOxc/edit?usp=sharing)
+- [Digital Fabrication](https://docs.google.com/presentation/d/e/2PACX-1vSUfKDtDXYeCH0CxDEWCxAuqyPNOUUEE-FbrYLzijJtYS2wfGl_Gdd6dt1nsnwLuIJSyVAzRmbwEeEz/pub?start=false&loop=false&delayms=3000)
 - Student Folders
 - Intro to Rhino
   - Interface
