@@ -15,7 +15,7 @@
 
 ## Laser Cutting
 
-You don't have to look very far these days to find artists and designers employing digital fabrication in their work. Laser cutting is being utilised
+You don't have to look very far these days to find artists and designers employing laser cutting in their work. 
 
 in **graphic design**
 
@@ -45,7 +45,7 @@ Drawn Scarf by [Elvira 'T Hart](https://www.elvirathart.com/drawn-scarf)
 
 Olafur Eliasson, Your House, 2006
 
-## FabLab Laser Cutter Procedure 
+## FabLab Laser Cutter Procedure
 
 We will be learning the best methods for using the Universal Laser Cutters.
 
