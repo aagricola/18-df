@@ -8,5 +8,5 @@
 
 - document Project I --> upload documentation to your folder
 - [Grasshopper Tutorials Ch 1-4](https://www.youtube.com/watch?v=t-fN6eN7fyg&index=1&list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g)
-- [reading from The Sympathy of Things](https://drive.google.com/file/d/0B3rwR5mFpY3gaWJPTjBsQ1NnTGM/view)  – pages 31-41
+- Read two articles from the resources folder about parametric design and repetition
 - Optional: Workshop on sensors with Paul Mirel Sunday, Oct. 28, 3-5 pm
