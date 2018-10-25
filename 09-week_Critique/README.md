@@ -1,14 +1,12 @@
 ## Today
-- Review toolpaths
-  - change the Output Work Offset from 54 to 58
-  - Look at wether cut lines are inside or outside
-  - Re-post CNC file
-  - Ryan to look at gcode and talk about it
-  - Review files with me, Ryan, and Caleb
-- Cut files
-- Project 1 work time
-  - Project 1 Individual meetings with me
+
+- Presentation
+- Project 1 Critique
+- Document work --> submit to your folder
 
 ## Homework
 
-- **Work on Project 1: Due Oct. 25**  Next week I will check your progress and want to see that you are about one third of the way through and that you have done more work than what you did in class today. This progress check-in is part of the final grade.
+- document Project I --> upload documentation to your folder
+- [Grasshopper Tutorials Ch 1-4](https://www.youtube.com/watch?v=t-fN6eN7fyg&index=1&list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g)
+- [reading from The Sympathy of Things](https://drive.google.com/file/d/0B3rwR5mFpY3gaWJPTjBsQ1NnTGM/view)  – pages 31-41
+- Optional: Workshop on sensors with Paul Mirel Sunday, Oct. 28, 3-5 pm
