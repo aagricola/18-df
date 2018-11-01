@@ -1,12 +1,22 @@
+
 ## Today
 
-- Presentation
-- Project 1 Critique
-- Document work --> submit to your folder
+- student research presentations
+- discuss reading
+- Grasshopper
+  - creating basic geometry
+  - sequences
+  - grids, populate, and arrays
+
+**Assignment:**
+
+Grasshopper Exercise: patterning a cube
+- explore the component types learned this week in class and beyond
+- create a 2D pattern using basic curve geometry
+- create 6 variations of that pattern that fill a square
 
 ## Homework
 
-- document Project I --> upload documentation to your folder
-- [Grasshopper Tutorials Ch 1-4](https://www.youtube.com/watch?v=t-fN6eN7fyg&index=1&list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g)
-- Read two articles from the resources folder about parametric design and repetition
-- Optional: Workshop on sensors with Paul Mirel Sunday, Oct. 28, 3-5 pm
+- complete Grasshopper exercise. upload your .gh file and a picture of your patterns to your folder
+- reading from last week (located in last weeks folder)
+- [Grasshopper Tutorials Ch 5-6](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g)
