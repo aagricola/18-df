@@ -20,3 +20,4 @@ Grasshopper Exercise: patterning a cube
 - complete Grasshopper exercise. upload your .gh file and a picture of your patterns to your folder
 - reading from last week (located in last weeks folder)
 - [Grasshopper Tutorials Ch 5-6](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g)
+- Make sure your documentation of Project 1 is in your folder in the class folder!
