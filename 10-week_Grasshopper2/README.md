@@ -26,5 +26,6 @@
 ## Homework
 
 - Finish assignment and upload to your folder
-- Review what we covered today in []“Working With Data Trees” tutorial ch 1-7](https://www.youtube.com/playlist?list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW)
+- Review what we covered today in [“Working With Data Trees” tutorial ch 1-7](https://www.youtube.com/playlist?list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW)
 - Optional to continue with chapters 8-14 (recommended)
+- If you have an Arduino, bring it next week
