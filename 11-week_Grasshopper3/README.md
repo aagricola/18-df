@@ -29,5 +29,6 @@ Timeline:
 
 ## Homework
 
+- DUE TO SNOWDAY I didn't get to meet with each of you. So please email me with your project proposal and a breakout of your deliverables by the dates listed above. 
 - Make progress on your Project (remember: this is part of your process which is part of the project's final grade)
 - HAVE A RESTFUL BREAK!!!
